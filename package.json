@@ -1,0 +1,21 @@
+{
+  "name": "@ipwnpancakes/fcc-npm-ipwnpancakes",
+  "version": "1.0.0",
+  "description": "Woot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitgit"
+  },
+  "keywords": [
+    "floofycats"
+  ],
+  "author": "iPwnPancakes (Daniel Buenrrostro)",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
